@@ -1,5 +1,7 @@
 # 📊 Northwind Sales Dashboard
 
+[![Streamlit App](https://img.shields.io/badge/🚀%20View%20Live%20App-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://sales-dashboard-ulnjevunz59gryhkumjvzp.streamlit.app)
+
 An end-to-end interactive dashboard built with **Python**, **SQL**, and **Streamlit**, using the classic Northwind dataset. This project includes full data analysis, KPI metrics, charts, drilldown filters, CSV export, and even test coverage for utilities and queries.
 
 ---
